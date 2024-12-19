@@ -1,0 +1,14 @@
+Source: firmware-realtek-nitrux
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Nitrux/firmware-realtek-nitrux
+
+
+Package: firmware-realtek-nitrux
+Architecture: amd64
+Conflicts: firmware-realtek, firmware-realtek-rtl8723cs-bt
+Description: Firmware for Realtek wired/Wi-Fi/BT adapters
+ This package includes firmware for Realtek wired/Wi-Fi/BT adapters.
