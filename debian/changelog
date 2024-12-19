@@ -1,3 +1,9 @@
+firmware-realtek-nitrux (0.0.2)  nitrux; urgency=medium
+
+  * Add rtw89.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 19 Dec 2024 05:23:00 -0500
+
 firmware-realtek-nitrux (0.0.1)  nitrux; urgency=medium
 
   * Create package.
