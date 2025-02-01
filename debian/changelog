@@ -1,4 +1,4 @@
-firmware-realtek-nitrux (0.0.3)  nitrux; urgency=medium
+firmware-realtek-nitrux (0.0.4)  nitrux; urgency=medium
 
   * Add firmware files from linux-firmware as of commit 722d0d12.
 
