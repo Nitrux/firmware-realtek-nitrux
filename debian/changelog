@@ -1,3 +1,9 @@
+firmware-realtek-nitrux (0.0.5)  nitrux; urgency=medium
+
+  * Add firmware files from linux-firmware as of commit e61b8981.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 21 Mar 2025 14:08:00 -0500
+
 firmware-realtek-nitrux (0.0.4)  nitrux; urgency=medium
 
   * Add firmware files from linux-firmware as of commit 722d0d12.
